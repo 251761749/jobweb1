@@ -410,12 +410,32 @@ header .intro-text .intro-heading
     line-height: 37px;
 
 }
-/*----------------------------局部(team)--------------------*/
+/*---------------------------------------局部team---------------*/
 .box-content.box-4-style
 {
     color: #884ecd;
     text-align: center;
     height: 400px;
     background: url("../images/bak2.jpg") no-repeat fixed;
+}
+
+
+/*----------------------------局部(联系我们)--------------------*/
+.box-content.box-5
+{
+    background-color: #222222;
+    color: white;
+}
+.box-content.box-5
+{
+    padding: 110px 0;
+}
+
+.box-content.box-5 .box-contact-5
+{
+    background-color: #444444;
+    height: 250px;
+    text-align: center;
+    padding-top: 40px;
 }
 
