@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c93f1c5f-1753-415a-b050-c6cafb9ce65d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/btn.css" afterPath="$PROJECT_DIR$/css/btn.css" />
-      <change beforePath="$PROJECT_DIR$/css/logo.css" afterPath="$PROJECT_DIR$/css/logo.css" />
-      <change beforePath="$PROJECT_DIR$/css/rw-style.css" afterPath="$PROJECT_DIR$/css/rw-style.css" />
-    </list>
+    <list default="true" id="c93f1c5f-1753-415a-b050-c6cafb9ce65d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -74,8 +70,8 @@
       <file leaf-file-name="rw-style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/rw-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2545">
-              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="414">
+              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -233,12 +229,12 @@
       <updated>1516782596330</updated>
       <workItem from="1516782598896" duration="10398000" />
       <workItem from="1516933695925" duration="3838000" />
-      <workItem from="1516937659690" duration="10845000" />
+      <workItem from="1516937659690" duration="11133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25081000" />
+    <option name="totallyTimeSpent" value="25369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -455,8 +451,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/rw-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2545">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="414">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
           <folding />
         </state>
       </provider>
