@@ -10,3 +10,4 @@ $(function lx() {
         $('.diyoumask').fadeOut();
     });
 });
+

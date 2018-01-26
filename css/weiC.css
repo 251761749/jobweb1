@@ -145,13 +145,14 @@ hr
 /* 边框颜色透明  背景颜色*/
 .navbar.navbar-default
 {
-    background-color: #101010;
+    background-color: #222;
     padding: 10px;
     font-family: Helvetica,Arial,cursive;
 }
 .navbar-brand.page-scroll
 {
     color: #2aabd2;
+    font-size: 30px;
 }
 
 .navbar-default .navbar-toggle {border-color: black;background-color: white;}
