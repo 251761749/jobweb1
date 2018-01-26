@@ -9,7 +9,6 @@ jQuery(document).ready(function($)
         controlNav: false,
         //载入页面不自动播放
         slideshow: false,
-        //
         smoothHeight: true,
         start: function () {
             $('.cd-testimonials').children('li').css({

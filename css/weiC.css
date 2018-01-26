@@ -439,3 +439,12 @@ header .intro-text .intro-heading
     padding-top: 40px;
 }
 
+
+/*-----footer----*/
+.wrap-footer
+{
+    background-color: #222222;
+    text-align: center;
+    color: white;
+}
+
